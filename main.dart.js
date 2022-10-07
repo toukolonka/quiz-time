@@ -64519,7 +64519,7 @@ if(s==null)return B.K5
 else{r=s?"Answer correct":"Answer incorrect"
 r=A.hG(r,p,p,p,p,p,this.b?2:this.c.a/250)
 q=s?B.mq:B.zw
-return A.lZ(A.a([r,A.ah8(q,s?B.h6:B.Dw,100),A.fj(A.ahO("Show new question",new A.a05(this.a,a),2),100,300)],t.F),B.bY,B.aw)}}}},
+return A.lZ(A.a([r,A.ah8(q,s?B.h6:B.Dw,100),A.fj(A.ahO("Show new question",new A.a05(this.a,a),1.5),100,300)],t.F),B.bY,B.aw)}}}},
 $S:402}
 A.a05.prototype={
 $0(){var s=this.b.O(t.q0).f.d
